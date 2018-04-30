@@ -6,9 +6,9 @@ menu:
   main:
   - name: test2
     url: "/test2"
-    weight: 1
+    weight: 2
   - identifier: index
     title: about
     url: "/"
-    name: test
+    name: ''
     weight: 1
