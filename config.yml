@@ -10,5 +10,4 @@ menu:
   - identifier: index
     title: about
     url: "/"
-    name: ''
     weight: 1
