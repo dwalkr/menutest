@@ -4,10 +4,10 @@ languageCode: en-us
 title: My New Hugo Site
 menu:
   main:
-  - name: test2
-    url: "/test2"
-    weight: 2
   - identifier: index
     title: about
     url: "/"
     weight: 1
+  - name: test2
+    url: "/test2"
+    weight: 2
