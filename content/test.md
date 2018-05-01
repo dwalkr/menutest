@@ -1,3 +1,5 @@
 +++
 title = "Test"
+type = "page"
+
 +++

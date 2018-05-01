@@ -7,10 +7,10 @@ menu:
   - identifier: test
     title: Test
     url: "/test/"
-    weight: 1
+    weight: 2
   - identifier: index
     title: About
     url: "/"
-    weight: 2
+    weight: 1
 params:
   image_url: https://example.com
