@@ -1,9 +1,15 @@
----
 baseURL: http://example.org/
 languageCode: en-us
 title: My New Hugo Site
+params:
+  image_url: "https://example.com"
 menu:
   main:
-  - name: test2
-    url: "/test2"
+  - identifier: index
+    title: About
+    url: /
+    weight: 1
+  - identifier: test
+    title: Test
+    url: /test/
     weight: 2

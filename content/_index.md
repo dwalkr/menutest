@@ -1,5 +1,3 @@
-+++
-title = ""
-type = "page"
-
-+++
+---
+title: About
+---
