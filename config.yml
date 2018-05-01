@@ -8,9 +8,5 @@ menu:
     title: Test
     url: "/test/"
     weight: 2
-  - identifier: index
-    title: About
-    url: "/"
-    weight: 1
 params:
   image_url: https://example.com
